@@ -126,11 +126,9 @@ async def start(event):
         [Button.inline('اخر ﹝6﹞ رسائل ⩨', 'f4or3wa1rd'), Button.inline('ارسال رسالة ⛣', 's6e43n6d')],
         [Button.inline('نقر زر شفاف ✧', 'ba4utt2on'), Button.inline('عدد الحسابات ꐕ', "bbuttoon08")],
         [Button.inline('⬩ مسح بيانات البوت ⬩', 'format')],    
-         [Button.inline('༺ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱𝗧 ༻', 'button0')]
+         [Button.inline('🧩 𝗦𝗢𝗨𝗥𝗖𝗘 𝗥𝗘𝗣𝗘𝗧𝗛𝗢𝗡 🧩', 'button0')]
         ]
-        await bot.send_message(chat, '''**──╮╭─
-╭─╯│┈
-╰──╰─**''', buttons=buttons)
+        await bot.send_message(chat, '''** مرحبا استخدم السورس بشكل جيد لكي لايتم حظر أرقامك **''', buttons=buttons)
 
 
 @bot.on(events.CallbackQuery(pattern='da3mkom'))
@@ -163,11 +161,9 @@ async def back(event):
         [Button.inline('اخر ﹝6﹞ رسائل ⩨', 'f4or3wa1rd'), Button.inline('ارسال رسالة ⛣', 's6e43n6d')],
         [Button.inline('نقر زر شفاف ✧', 'ba4utt2on'), Button.inline('عدد الحسابات ꐕ', "bbuttoon08")],
         [Button.inline('⬩ مسح بيانات البوت ⬩', 'format')],    
-         [Button.inline('༺ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱༻', 'button0')]
+         [Button.inline('🧩 𝗦𝗢𝗨𝗥𝗖𝗘 𝗥𝗘𝗣𝗘𝗧𝗛𝗢𝗡 🧩', 'button0')]
         ]
-        await event.edit("""**──╮╭─
-╭─╯│┈
-╰──╰─**""", buttons=buttons)
+        await event.edit("""** مرحبا استخدم السورس بشكل جيد لكي لايتم حظر أرقامك **""", buttons=buttons)
 
 
 
@@ -326,11 +322,9 @@ async def start(event):
         [Button.inline('رشـــق قناة ⊕', 'aibo'), Button.inline('مغادرة قناة ⊖', 'ajbo')],
         [Button.inline('رشق مشاهدات ⟐', 'akbo')],
         
-         [Button.inline('༺ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱༻', 'button0')]
+         [Button.inline('🧩 𝗦𝗢𝗨𝗥𝗖𝗘 𝗥𝗘𝗣𝗘𝗧𝗛𝗢𝗡 🧩', 'button0')]
         ]
-        await bot.send_message(chat, '''**──╮╭─
-╭─╯│┈
-╰──╰─**''', buttons=buttons)
+        await bot.send_message(chat, '''** مرحبا استخدم السورس بشكل جيد لكي لايتم حظر أرقامك **''', buttons=buttons)
 
 
 #--------------------------------------------------------#
